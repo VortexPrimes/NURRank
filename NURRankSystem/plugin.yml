@@ -1,0 +1,12 @@
+name: NURRankSystem
+main: me.vortexprimes.nur.Main
+version: 1.0
+author: VortexPrimes
+api-version: 1.13
+commands:
+  rankup:
+  rankstats:
+  questpoints:
+
+
+
